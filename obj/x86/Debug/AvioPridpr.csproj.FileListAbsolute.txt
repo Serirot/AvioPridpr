@@ -1,0 +1,17 @@
+C:\C#_aplication\AvioPridpr\AvioPridpr\bin\Debug\AvioPridpr.exe
+C:\C#_aplication\AvioPridpr\AvioPridpr\bin\Debug\AvioPridpr.pdb
+C:\C#_aplication\AvioPridpr\AvioPridpr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#_aplication\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.Form1.resources
+C:\C#_aplication\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.Properties.Resources.resources
+C:\C#_aplication\AvioPridpr\AvioPridpr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#_aplication\AvioPridpr\AvioPridpr\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#_aplication\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.exe
+C:\C#_aplication\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.pdb
+C:\C#\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.exe
+C:\C#\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.pdb
+C:\C#\AvioPridpr\AvioPridpr\bin\Debug\AvioPridpr.exe
+C:\C#\AvioPridpr\AvioPridpr\bin\Debug\AvioPridpr.pdb
+C:\C#\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.csprojResolveAssemblyReference.cache
+C:\C#\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.Form1.resources
+C:\C#\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.Properties.Resources.resources
+C:\C#\AvioPridpr\AvioPridpr\obj\x86\Debug\AvioPridpr.csproj.GenerateResource.Cache
